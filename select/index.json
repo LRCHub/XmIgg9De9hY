@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "base_track": "The Nights",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-25T14:54:47.209522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Nights",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_The_Nights_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Nights",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_The_Nights_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me Back The Nights",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/03_Give_Me_Back_The_Nights_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If It Wasn't for the Nights",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/04_If_It_Wasn't_for_the_Nights_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Under The Nights Of Germany",
+      "artist": "Act",
+      "has_synced": false,
+      "path": "select/05_Under_The_Nights_Of_Germany_Act.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under The Nights Of Germany (Trial Edit)",
+      "artist": "Act",
+      "has_synced": false,
+      "path": "select/06_Under_The_Nights_Of_Germany_(Trial_Edit)_Act.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Swear the Nights",
+      "artist": "Robin Beck",
+      "has_synced": false,
+      "path": "select/07_I_Swear_the_Nights_Robin_Beck.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Remember the Nights",
+      "artist": "The Motels",
+      "has_synced": true,
+      "path": "select/08_Remember_the_Nights_The_Motels.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When The Nights On Fire - 2000 Digital Remaster",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/09_When_The_Nights_On_Fire_-_2000_Digital_Remaster_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When The Nights On Fire",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/10_When_The_Nights_On_Fire_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Even the Nights Are Better",
+      "artist": "Air Supply",
+      "has_synced": false,
+      "path": "select/11_Even_the_Nights_Are_Better_Air_Supply.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Nights of Wine and Roses",
+      "artist": "Japandroids",
+      "has_synced": true,
+      "path": "select/12_The_Nights_of_Wine_and_Roses_Japandroids.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold On To The Nights",
+      "artist": "Richard Marx",
+      "has_synced": true,
+      "path": "select/13_Hold_On_To_The_Nights_Richard_Marx.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Nights",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/14_The_Nights_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Nights",
+      "artist": "Avicii (ft. Nicholas Furlong)",
+      "has_synced": true,
+      "path": "select/15_The_Nights_Avicii_(ft._Nicholas_Furlong).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Nights (Extended Mix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/16_The_Nights_(Extended_Mix)_Avicii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Nights",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_The_Nights_Avicii.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "The Nights",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_01_The_Nights_Avicii.lrc",
+      "repo_name": "UtF6Jej8yb4"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "The Nights",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/localdb_02_The_Nights_Avicii.txt",
+      "repo_name": "iBWlqg7VvCE"
+    }
+  ]
+}
