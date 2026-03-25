@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "The Nights",
   "base_artist": "Avicii",
-  "createdAt": "2026-03-25T14:55:16.790709Z",
+  "createdAt": "2026-03-25T14:57:40.501732Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,15 +147,24 @@
       "artist": "Avicii",
       "has_synced": true,
       "path": "select/localdb_01_The_Nights_Avicii.lrc",
-      "repo_name": "UtF6Jej8yb4"
+      "repo_name": "XmIgg9De9hY"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "The Nights",
       "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_02_The_Nights_Avicii.lrc",
+      "repo_name": "UtF6Jej8yb4"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "The Nights",
+      "artist": "Avicii",
       "has_synced": false,
-      "path": "select/localdb_02_The_Nights_Avicii.txt",
+      "path": "select/localdb_03_The_Nights_Avicii.txt",
       "repo_name": "iBWlqg7VvCE"
     }
   ]
